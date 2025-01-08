@@ -1,4 +1,4 @@
-string1 = input ('Please Enter a Word to Reverse: ')
+string1 = input ('Please Enter Something to Reverse: ')
 string2 = ('')
 for i in string1:
     string2 = i + string2
